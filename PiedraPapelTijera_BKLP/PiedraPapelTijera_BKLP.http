@@ -1,0 +1,6 @@
+@PiedraPapelTijera_BKLP_HostAddress = http://localhost:5265
+
+GET {{PiedraPapelTijera_BKLP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
